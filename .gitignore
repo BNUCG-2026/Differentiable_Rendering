@@ -1,0 +1,3 @@
+__pycache__/
+.ipynb_checkpoints/
+output_meshes/      # 忽略掉每 20 步保存的几十兆中间过程模型，保持代码仓库纯净
